@@ -1,0 +1,6 @@
+C:\Users\Vision\Desktop\Current Project\Production Source\DungeonGen\bin\Debug\DungeonGen.dll
+C:\Users\Vision\Desktop\Current Project\Production Source\DungeonGen\bin\Debug\DungeonGen.pdb
+C:\Users\Vision\Desktop\Current Project\Production Source\DungeonGen\bin\Debug\RotMG.Common.dll
+C:\Users\Vision\Desktop\Current Project\Production Source\DungeonGen\obj\Debug\DungeonGen.csprojResolveAssemblyReference.cache
+C:\Users\Vision\Desktop\Current Project\Production Source\DungeonGen\obj\Debug\DungeonGen.dll
+C:\Users\Vision\Desktop\Current Project\Production Source\DungeonGen\obj\Debug\DungeonGen.pdb

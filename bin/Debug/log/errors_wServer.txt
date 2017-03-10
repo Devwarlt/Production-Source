@@ -1,0 +1,54 @@
+2017-03-07 22:34:35,432 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-07 22:38:34,854 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-07 22:45:36,632 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:13:56,546 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:27:36,319 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:28:59,772 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:33:41,902 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:34:38,665 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:37:06,494 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:38:16,661 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:38:28,079 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:39:11,987 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:40:36,499 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:40:44,822 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:41:03,621 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:42:10,682 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:42:48,035 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:45:11,539 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:45:21,189 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:46:52,838 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:47:22,736 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:48:00,211 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:49:53,397 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:49:57,210 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:50:35,481 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:51:52,673 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 16:57:16,812 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:07:54,131 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:23:35,223 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:23:49,075 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:24:27,308 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:25:00,565 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:32:27,159 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:33:27,750 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:33:41,067 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:33:54,327 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:36:44,880 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:37:19,341 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:37:33,062 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:41:42,552 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 17:42:05,414 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 20:36:17,540 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 20:36:18,899 [Entry] FATAL Server - System.Collections.Generic.KeyNotFoundException: Den givne nøgle var ikke til stede i ordbogen.
+   ved System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   ved wServer.logic.BehaviorDb.ctor.Init(String objType, State rootState, ILootDef[] defs) i C:\Users\Vision\Desktop\Current Project\Production Source\wServer\logic\BehaviorDb.cs:linje 111
+   ved wServer.logic.BehaviorDb.<>c.<.ctor>b__50_42() i C:\Users\Vision\Desktop\Current Project\Production Source\wServer\logic\ProductionDb\ProductionDb.SpriteWorld.cs:linje 9
+   ved wServer.logic.BehaviorDb..ctor(RealmManager manager) i C:\Users\Vision\Desktop\Current Project\Production Source\wServer\logic\BehaviorDb.cs:linje 63
+   ved wServer.realm.RealmManager.Initialize() i C:\Users\Vision\Desktop\Current Project\Production Source\wServer\realm\RealmManager.cs:linje 225
+   ved wServer.Program.Main(String[] args) i C:\Users\Vision\Desktop\Current Project\Production Source\wServer\Program.cs:linje 60
+2017-03-08 20:36:32,658 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 20:42:06,297 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 20:59:18,954 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 21:04:20,926 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-03-08 21:06:12,410 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!

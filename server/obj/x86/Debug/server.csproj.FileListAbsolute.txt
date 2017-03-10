@@ -335,3 +335,5 @@ C:\Users\Vision\Desktop\Current Project\Production Source\bin\Debug\server.pdb
 C:\Users\Vision\Desktop\Current Project\Production Source\server\obj\x86\Debug\server.csprojResolveAssemblyReference.cache
 C:\Users\Vision\Desktop\Current Project\Production Source\server\obj\x86\Debug\server.exe
 C:\Users\Vision\Desktop\Current Project\Production Source\server\obj\x86\Debug\server.pdb
+C:\Users\Vision\Desktop\Current Project\Production-Source\server\obj\x86\Debug\server.exe
+C:\Users\Vision\Desktop\Current Project\Production-Source\server\obj\x86\Debug\server.pdb
